@@ -1,0 +1,12 @@
+# Debug logs
+*.log
+firebase-debug.log
+firestore-debug.log
+
+# OS files
+.DS_Store
+
+# Environment/secrets
+.env
+.env.local
+.secret.local
